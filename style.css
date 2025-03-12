@@ -3,7 +3,7 @@ body {
     margin: 2px;
     padding: 0px;
 
-    
+
 }
 
 
@@ -33,6 +33,45 @@ body {
     gap: 12px;
 }
 
+.menu {
+    background-color: rgb(173, 173, 173);
+    box-sizing: border-box;
+    border-style: solid;
+    padding: 150px;
+    margin: 5px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.alongar {
+    padding-top: 1px;
+}
+
+.flex {
+    display: flex;
+}
+
+.limite {
+    height: 100px;
+    max-width: 640px;
+}
 
 
 
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+ }
+
+ td,th {
+    border: 1px solid #757373;
+    text-align: left;
+    padding: 8px;
+ }
+
+ tr:nth-child(even) {
+    background-color: #ea3efa;
+ }
