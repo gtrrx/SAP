@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(194, 193, 193);
+    margin: 2px;
+    padding: 0px;
+
+    
+}
+
+
+
+.Titulo {
+    background-color: rgb(133, 132, 132);
+}
+
+.linha {
+    border-top: 18px solid;
+    color: rgb(203, 214, 104);
+}
+
+
+.btn {
+    display: inline-flex;
+    align-items: center;
+    padding: 5px 12px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    border-radius: 3px;
+
+    background-color: #f8d7da;
+    border: 1px solid #dc3545;
+
+    gap: 12px;
+}
+
+
+
+
